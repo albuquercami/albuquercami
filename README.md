@@ -4,7 +4,7 @@
 
 💼 - Looking for Internships | Buscando estágios na área
   
-![albuquercami's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquercami&show_icons=true&theme=radical)
+![albuquercami's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquercami&show_icons=true&theme=dracula)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Camila-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
