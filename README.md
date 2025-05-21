@@ -1,6 +1,8 @@
 ## Oi! Meu nome é Camila 🍂
 
-📚 Currently studying Java
+📚 - Currently studying Java | Estudando Java
+
+💼 - Looking for Internships | Buscando estágios na área
   
 ![albuquercami's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquercami&show_icons=true&theme=radical)
   
