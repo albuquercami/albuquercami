@@ -1,7 +1,6 @@
 ## Oi! Meu nome é Camila 🍂
 
 📚 Currently studying Java
-- 😄 Pronouns: she/her
   
 ![albuquercami's GitHub stats](https://github-readme-stats.vercel.app/api?username=albuquercami&show_icons=true&theme=radical)
   
